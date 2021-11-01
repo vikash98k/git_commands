@@ -24,3 +24,14 @@
 * git branch -d branch_name
 # difference between two commit
 * git difftool commit_id_1 commid_id_2  `git difftool HEAD~2 HEAD~1`
+## git commands for exists repo
+* git init
+* git add -A
+* git commit -m
+* git remote add origin `url `
+* git push -f origin master/main
+* git pull `depands of git requirements`
+* git fetch `fetch data`
+### change master to main vice versa also
+* git branch -m master main
+* git branch -m main master 
