@@ -11,7 +11,7 @@
 * git checkout -- filename `undo for last change in perticular file`
 * git checkout -- . `undo for all file changes`
 ## After commit
-* git revert commit_id `find git commit_id using git log``[:q for close]`
+* git revert commit_id `find git commit_id using git log`[:q for close]`
 * git revert -n commit_id  `same as above line command`
 * git reset --hard commit_id 
 ### Branches
