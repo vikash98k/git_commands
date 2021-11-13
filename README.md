@@ -35,3 +35,6 @@
 ### change master to main vice versa also
 * git branch -m master main
 * git branch -m main master 
+
+## Resource
+  [Article](https://www.c-sharpcorner.com/article/top-15-git-commands-with-examples-for-every-developers/)
