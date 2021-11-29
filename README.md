@@ -33,6 +33,7 @@
 * git pull `depands of git requirements`
 * git fetch `fetch data`
 ### change master to main vice versa also
+* git branch
 * git branch -m master main
 * git branch -m main master 
 
