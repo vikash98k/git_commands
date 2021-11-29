@@ -36,5 +36,15 @@
 * git branch -m master main
 * git branch -m main master 
 
+######## contribute 
+* fork
+* clone
+* create branch
+* changes and commit
+* pull
+* git remote add upstream `git url link`
+* git checkout main branch
+* git fetch upstream
+* git merge upstream
 ## Resource
   [Article](https://www.c-sharpcorner.com/article/top-15-git-commands-with-examples-for-every-developers/)
